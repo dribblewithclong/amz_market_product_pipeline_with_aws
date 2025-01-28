@@ -9,3 +9,5 @@
 2. clone utils from github repo
 
     $ ```git submodule add git@github.com:dribblewithclong/iykyk_python_utils.git utils```
+
+## techstack
